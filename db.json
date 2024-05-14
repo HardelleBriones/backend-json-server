@@ -1,9 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": [
+    {
+      "id": "a34f",
+      "task": "homework",
+      "note": "complete math assignment",
+      "date": "2024-05-16"
+    },
+    {
+      "id": "b57c",
+      "task": "workout",
+      "note": "go for a run",
+      "date": "2024-05-17"
+    },
+    {
+      "id": "c83e",
+      "task": "cleaning",
+      "note": "tidy up the living room",
+      "date": "2024-05-18"
+    }
+  ]
 }
