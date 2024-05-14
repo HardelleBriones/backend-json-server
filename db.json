@@ -17,6 +17,12 @@
       "task": "cleaning",
       "note": "tidy up the living room",
       "date": "2024-05-18"
+    },
+    {
+      "id": "c83e",
+      "task": "History assignment",
+      "note": "For the upcoming history project, you are required to choose a significant event from World War II and analyze its impact on global politics, economy, and society.",
+      "date": "2024-05-17"
     }
   ]
 }
